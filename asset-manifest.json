@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.3cfa963b.css",
-    "main.js": "/static/js/main.34e47f5c.js",
-    "static/media/RubikDirt-Regular.ttf": "/static/media/RubikDirt-Regular.7c2e9501e6fa6713b659.ttf",
-    "static/media/gear2.png": "/static/media/gear2.4ec2b7afa7ec05e170e4.png",
-    "static/media/gear1.png": "/static/media/gear1.f81d6425185508c0609a.png",
-    "static/media/books.png": "/static/media/books.65cfb9c288e0756de3ed.png",
-    "static/media/Neucha-Regular.ttf": "/static/media/Neucha-Regular.543eb5219232aab34519.ttf",
-    "static/media/scroll.png": "/static/media/scroll.cf955c33acaee5249399.png",
-    "static/media/gear0.png": "/static/media/gear0.ddce7aa2577e0c03baa5.png",
-    "static/media/list.png": "/static/media/list.1cae68fd01e0e38efc02.png",
-    "static/media/trash.png": "/static/media/trash.e78eb9489f19e27ea3a2.png",
-    "static/media/pic.jpg": "/static/media/pic.fe91cbf20f94b5f615c1.jpg",
-    "index.html": "/index.html",
-    "main.3cfa963b.css.map": "/static/css/main.3cfa963b.css.map",
-    "main.34e47f5c.js.map": "/static/js/main.34e47f5c.js.map"
+    "main.css": "/my-writober/static/css/main.d333415c.css",
+    "main.js": "/my-writober/static/js/main.ed0d3b01.js",
+    "static/media/RubikDirt-Regular.ttf": "/my-writober/static/media/RubikDirt-Regular.7c2e9501e6fa6713b659.ttf",
+    "static/media/gear2.png": "/my-writober/static/media/gear2.4ec2b7afa7ec05e170e4.png",
+    "static/media/gear1.png": "/my-writober/static/media/gear1.f81d6425185508c0609a.png",
+    "static/media/books.png": "/my-writober/static/media/books.65cfb9c288e0756de3ed.png",
+    "static/media/Neucha-Regular.ttf": "/my-writober/static/media/Neucha-Regular.543eb5219232aab34519.ttf",
+    "static/media/scroll.png": "/my-writober/static/media/scroll.cf955c33acaee5249399.png",
+    "static/media/gear0.png": "/my-writober/static/media/gear0.ddce7aa2577e0c03baa5.png",
+    "static/media/list.png": "/my-writober/static/media/list.1cae68fd01e0e38efc02.png",
+    "static/media/trash.png": "/my-writober/static/media/trash.e78eb9489f19e27ea3a2.png",
+    "static/media/pic.jpg": "/my-writober/static/media/pic.fe91cbf20f94b5f615c1.jpg",
+    "index.html": "/my-writober/index.html",
+    "main.d333415c.css.map": "/my-writober/static/css/main.d333415c.css.map",
+    "main.ed0d3b01.js.map": "/my-writober/static/js/main.ed0d3b01.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cfa963b.css",
-    "static/js/main.34e47f5c.js"
+    "static/css/main.d333415c.css",
+    "static/js/main.ed0d3b01.js"
   ]
 }
