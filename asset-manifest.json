@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/my-writober/static/css/main.d333415c.css",
-    "main.js": "/my-writober/static/js/main.ed0d3b01.js",
+    "main.js": "/my-writober/static/js/main.df220842.js",
     "static/media/RubikDirt-Regular.ttf": "/my-writober/static/media/RubikDirt-Regular.7c2e9501e6fa6713b659.ttf",
-    "static/media/gear2.png": "/my-writober/static/media/gear2.4ec2b7afa7ec05e170e4.png",
+    "static/media/gear3.png": "/my-writober/static/media/gear3.4ec2b7afa7ec05e170e4.png",
+    "static/media/gear2.png": "/my-writober/static/media/gear2.2949a84c0015740b65fa.png",
     "static/media/gear1.png": "/my-writober/static/media/gear1.f81d6425185508c0609a.png",
     "static/media/books.png": "/my-writober/static/media/books.65cfb9c288e0756de3ed.png",
     "static/media/Neucha-Regular.ttf": "/my-writober/static/media/Neucha-Regular.543eb5219232aab34519.ttf",
@@ -14,10 +15,10 @@
     "static/media/pic.jpg": "/my-writober/static/media/pic.fe91cbf20f94b5f615c1.jpg",
     "index.html": "/my-writober/index.html",
     "main.d333415c.css.map": "/my-writober/static/css/main.d333415c.css.map",
-    "main.ed0d3b01.js.map": "/my-writober/static/js/main.ed0d3b01.js.map"
+    "main.df220842.js.map": "/my-writober/static/js/main.df220842.js.map"
   },
   "entrypoints": [
     "static/css/main.d333415c.css",
-    "static/js/main.ed0d3b01.js"
+    "static/js/main.df220842.js"
   ]
 }
