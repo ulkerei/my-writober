@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-writober/static/css/main.d333415c.css",
-    "main.js": "/my-writober/static/js/main.df220842.js",
+    "main.js": "/my-writober/static/js/main.772f67ca.js",
     "static/media/RubikDirt-Regular.ttf": "/my-writober/static/media/RubikDirt-Regular.7c2e9501e6fa6713b659.ttf",
     "static/media/gear3.png": "/my-writober/static/media/gear3.4ec2b7afa7ec05e170e4.png",
     "static/media/gear2.png": "/my-writober/static/media/gear2.2949a84c0015740b65fa.png",
@@ -15,10 +15,10 @@
     "static/media/pic.jpg": "/my-writober/static/media/pic.fe91cbf20f94b5f615c1.jpg",
     "index.html": "/my-writober/index.html",
     "main.d333415c.css.map": "/my-writober/static/css/main.d333415c.css.map",
-    "main.df220842.js.map": "/my-writober/static/js/main.df220842.js.map"
+    "main.772f67ca.js.map": "/my-writober/static/js/main.772f67ca.js.map"
   },
   "entrypoints": [
     "static/css/main.d333415c.css",
-    "static/js/main.df220842.js"
+    "static/js/main.772f67ca.js"
   ]
 }
